@@ -4,7 +4,7 @@ Test-time Data Augmentation for Estimation of Heteroscedastic Aleatoric Uncertai
 We provide the codebase behind our paper titled 'Test-time Data Augmentation for Estimation of Heteroscedastic Aleatoric Uncertainty in Deep Neural Networks' and presented at the International conference on Medical Imaging with Deep Learning in 
 Amsterdam on the 6th of July 2018. Additionally, a notebook to demonstrate the use of our ResNet50-like CNN is included. 
 
-During our study, we explored and implemented several ideas from the following papers:
+During our study, we explored and implemented several architectural ideas from the following papers:
 
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition, pages 770–778, 2016.
 
