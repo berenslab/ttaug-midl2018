@@ -25,9 +25,9 @@ If you have questions and/or things to discuss, feel free to contact us. If you 
 
 # Citing the paper
 If you would like to cite our paper, please, consider something similar to the following entry:
-@inproceedings{ayhan2018,
-  title={Test-time Data Augmentation for Estimation of Heteroscedastic Aleatoric Uncertainty in Deep Neural Networks},
-  author={Ayhan, Murat Seckin and Berens, Philipp},
-  booktitle={International conference on Medical Imaging with Deep Learning},
-  year={2018}
+> @inproceedings{ayhan2018,
+title={Test-time Data Augmentation for Estimation of Heteroscedastic Aleatoric Uncertainty in Deep Neural Networks},
+author={Ayhan, Murat Seckin and Berens, Philipp},
+booktitle={International conference on Medical Imaging with Deep Learning},
+year={2018}
 }
