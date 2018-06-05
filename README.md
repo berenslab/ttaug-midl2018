@@ -13,3 +13,21 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. Identity mappings in deep
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.  Delving deep into rectifiers:  Surpassing human-level performance on imagenet classification. In Proceedings of the IEEE international conference on computer vision, pages 1026–1034, 2015.
 
 While the notebook relies on the exact specifications described in the paper and readily can replicate the results, you may explore several variations if you feel comfortable getting into to the code. 
+
+* Dataset: We evaluate our method using the well-known collection of fundus images obtained from a previous Kaggle competition: https://www.kaggle.com/c/diabetic-retinopathy-detection . If you keep a similar directory structure as well as a file list, and process the images accordingly, you may even be able to use our reader object. 
+
+# Compatibility
+We tested our code with Tensorflow 1.4.1 and Tensorflow 1.8. 
+
+# Help and discussions
+If you have questions and/or things to discuss, feel free to contact us. If you find terrible things about our method/code, please, let us know. We also look forward to hearing what you do with the method/code. 
+
+
+# Citing the paper
+If you would like to cite our paper, please, consider something similar to the following entry:
+@inproceedings{ayhan2018,
+  title={Test-time Data Augmentation for Estimation of Heteroscedastic Aleatoric Uncertainty in Deep Neural Networks},
+  author={Ayhan, Murat Seckin and Berens, Philipp},
+  booktitle={International conference on Medical Imaging with Deep Learning},
+  year={2018}
+}
