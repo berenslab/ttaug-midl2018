@@ -17,7 +17,7 @@ While you can readily replicate our results, you may also explore several variat
 * Dataset: We evaluate our method using the well-known collection of fundus images obtained from a previous Kaggle competition: https://www.kaggle.com/c/diabetic-retinopathy-detection . If you keep a similar directory structure as well as a file list, and process the images accordingly, you may even be able to use our reader object. 
 
 # Compatibility
-We tested our code with Tensorflow 1.4.1 and Tensorflow 1.8. 
+We tested our code with Tensorflow 1.4.1 and Tensorflow 1.8. You may also need a data science platform, e.g., Anaconda, Jupyter, to play around with the code.
 
 # Help and discussions
 If you have questions and/or things to discuss, feel free to contact us. If you find terrible things about our method/code, please, let us know. We also look forward to hearing what you do with the method/code. 
