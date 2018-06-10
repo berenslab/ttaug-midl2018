@@ -20,8 +20,7 @@ While you can readily replicate our results, you may also explore several variat
 We tested our code with Tensorflow 1.4.1 and Tensorflow 1.8. You may also need a data science platform, e.g., Anaconda, Jupyter, to play around with the code.
 
 # Help and discussions
-If you have questions and/or things to discuss, feel free to contact us. If you find terrible things about our method/code, please, let us know. We also look forward to hearing what you do with the method/code. 
-
+If you have questions and/or things to discuss, feel free to contact us. If you find terrible things about our method/code, please, let us know. Also, note that the code is a result of an incremental development process. It is clear that a more eye-candy version would be possible. We look forward to hearing what you do with the method/code. 
 
 # Citing the paper
 If you would like to cite our paper, please, consider something similar to the following entry:
